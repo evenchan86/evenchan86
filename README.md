@@ -1,16 +1,13 @@
-## Hi there 👋
+<h2 align="center">Hello World!👋</h2>
+<p align="justify">Hi, I'm Adrian, a computer science student who recently graduated from University of Indonesia. I am a tech enthusiast on an adventurous journey through the realm of software engineering. When I'm not immersed in code, you can find me gaming, indulging in captivating movies, or lost in a creative brainstorm, fueling my love for innovative ideas.</p>
 
-<!--
-**evenchan86/evenchan86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><strong>🖥 Technologies 🖥</strong></p>
+<p align="center">
+<img src="https://img.shields.io/badge/Kubernetes-27437c?style=for-the-badge&logo=kubernetes" alt="Kubernetes" />
 
-Here are some ideas to get you started:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><strong></strong></p>
+<p align="center">
+
+</p>
